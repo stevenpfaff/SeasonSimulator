@@ -29,7 +29,14 @@ namespace SeasonSimulator
             {
                 Console.WriteLine("Enter Number Value.");
             }
-            Console.WriteLine("Name: " + name + " Power: " + power + " Hit: " + hit);            
+            Console.WriteLine("Name: " + name + " Power: " + power + " Hit: " + hit);
+            Console.WriteLine("Set The Number of Plate Appearances You'd Like Your Player To Have.");
+            int pa;
+            string paStr = Console.ReadLine();
+            if (!int.TryParse(paStr, out pa))
+            {
+                Console.WriteLine("Enter Number Value.");
+            }
             int single = 0;
             int doubles = 0;
             int triple = 0;
@@ -39,9 +46,8 @@ namespace SeasonSimulator
             int regout = 0;
 
             Random rnd = new Random();
-            int[] intArr = new int[700];
-            //700 = Plate appearances
-            for (int i = 0; i < 700; i++)
+            int[] intArr = new int[pa];
+            for (int i = 0; i < pa; i++)
             {
                 int result = rnd.Next(1, 100);
                 intArr[i] = result++;

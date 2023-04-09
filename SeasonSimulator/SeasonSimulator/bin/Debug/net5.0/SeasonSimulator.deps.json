@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SeasonSimulator/1.0.0": {
+        "runtime": {
+          "SeasonSimulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeasonSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

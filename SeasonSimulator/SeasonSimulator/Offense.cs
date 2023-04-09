@@ -1166,18 +1166,24 @@ namespace SeasonSimulator
                     }
                 }
             }
-                Console.WriteLine("Hits {0}", single + doubles + triple + homerun);
-                Console.WriteLine("Doubles{0}", doubles);
-                Console.WriteLine("Triples{0}", triple);
-                Console.WriteLine("Homeruns{0}", homerun);
-                Console.WriteLine("Strikeouts{0}", strikeout);
-                Console.WriteLine("Walks{0}", walk);
-                Console.WriteLine("At-Bats{0}", single + doubles + triple + homerun + strikeout + regout);
-                Console.WriteLine("Batting Average{0}", ((double)single + doubles + triple + homerun) / (single + doubles + triple + homerun + strikeout + regout));
-                Console.WriteLine("On Base Percentage{0}", ((double)single + doubles + triple + homerun + walk) / (single + doubles + triple + homerun + strikeout + regout + walk));
-                Console.WriteLine("Slugging Percentage{0}", ((double)single + (doubles * 2) + (triple * 3) + (homerun * 4)) / (single + doubles + triple + homerun + strikeout + regout));
-                Console.ReadLine();
+            Console.WriteLine("Hits {0}", single + doubles + triple + homerun);
+            Console.WriteLine("Doubles{0}", doubles);
+            Console.WriteLine("Triples{0}", triple);
+            Console.WriteLine("Homeruns{0}", homerun);
+            Console.WriteLine("Strikeouts{0}", strikeout);
+            Console.WriteLine("Walks{0}", walk);
+            Console.WriteLine("At-Bats{0}", single + doubles + triple + homerun + strikeout + regout);
+            Console.WriteLine("Batting Average{0}", ((double)single + doubles + triple + homerun) / (single + doubles + triple + homerun + strikeout + regout));
+            Console.WriteLine("On Base Percentage{0}", ((double)single + doubles + triple + homerun + walk) / (single + doubles + triple + homerun + strikeout + regout + walk));
+            Console.WriteLine("Slugging Percentage{0}", ((double)single + (doubles * 2) + (triple * 3) + (homerun * 4)) / (single + doubles + triple + homerun + strikeout + regout));
+            Console.ReadLine();
+            Console.WriteLine("Enter y to run again");
+            string restart = Console.ReadLine();
+            if (restart.ToLower() == "y")
+            {
+                Batting();
             }
+        }
         }
     }
 

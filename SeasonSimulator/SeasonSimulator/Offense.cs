@@ -1,9 +1,4 @@
-﻿
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
 namespace SeasonSimulator
 {
@@ -1053,15 +1048,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (900 < result && result <= 960)
+                    else if (900 < result && result <= 955)
                     {
                         doubles++;
                     }
-                    else if (960 < result && result <= 965)
+                    else if (955 < result && result <= 960)
                     {
                         triple++;
                     }
-                    else if (965 < result && result <= 1000)
+                    else if (960 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1084,15 +1079,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (900 < result && result <= 960)
+                    else if (900 < result && result <= 955)
                     {
                         doubles++;
                     }
-                    else if (960 < result && result <= 965)
+                    else if (955 < result && result <= 960)
                     {
                         triple++;
                     }
-                    else if (965 < result && result <= 1000)
+                    else if (960 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1115,15 +1110,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (900 < result && result <= 960)
+                    else if (900 < result && result <= 955)
                     {
                         doubles++;
                     }
-                    else if (960 < result && result <= 965)
+                    else if (955 < result && result <= 960)
                     {
                         triple++;
                     }
-                    else if (965 < result && result <= 1000)
+                    else if (960 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1146,15 +1141,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (900 < result && result <= 960)
+                    else if (900 < result && result <= 955)
                     {
                         doubles++;
                     }
-                    else if (960 < result && result <= 965)
+                    else if (955 < result && result <= 960)
                     {
                         triple++;
                     }
-                    else if (965 < result && result <= 1000)
+                    else if (960 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1174,19 +1169,19 @@ namespace SeasonSimulator
                     {
                         regout++;
                     }
-                    else if (850 < result && result <= 890)
+                    else if (850 < result && result <= 895)
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (895 < result && result <= 945)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (945 < result && result <= 950)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (950 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1209,15 +1204,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (890 < result && result <= 945)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (945 < result && result <= 950)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (950 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1240,15 +1235,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (890 < result && result <= 940)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (940 < result && result <= 950)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (950 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1271,15 +1266,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (890 < result && result <= 940)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (940 < result && result <= 950)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (950 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1302,15 +1297,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (890 < result && result <= 940)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (940 < result && result <= 950)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (950 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1329,19 +1324,19 @@ namespace SeasonSimulator
                     {
                         regout++;
                     }
-                    else if (750 < result && result <= 890)
+                    else if (750 < result && result <= 860)
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (860 < result && result <= 930)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (930 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1360,19 +1355,19 @@ namespace SeasonSimulator
                     {
                         regout++;
                     }
-                    else if (725 < result && result <= 890)
+                    else if (725 < result && result <= 850)
                     {
                         single++;
                     }
-                    else if (890 < result && result <= 955)
+                    else if (850 < result && result <= 930)
                     {
                         doubles++;
                     }
-                    else if (955 < result && result <= 960)
+                    else if (930 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (960 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1427,15 +1422,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (870 < result && result <= 940)
+                    else if (870 < result && result <= 930)
                     {
                         doubles++;
                     }
-                    else if (940 < result && result <= 950)
+                    else if (930 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (950 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1458,15 +1453,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (870 < result && result <= 940)
+                    else if (870 < result && result <= 935)
                     {
                         doubles++;
                     }
-                    else if (940 < result && result <= 950)
+                    else if (935 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (950 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1489,15 +1484,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (870 < result && result <= 940)
+                    else if (870 < result && result <= 935)
                     {
                         doubles++;
                     }
-                    else if (940 < result && result <= 950)
+                    else if (935 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (950 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1520,15 +1515,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (870 < result && result <= 940)
+                    else if (870 < result && result <= 930)
                     {
                         doubles++;
                     }
-                    else if (940 < result && result <= 950)
+                    else if (930 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (950 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1551,15 +1546,15 @@ namespace SeasonSimulator
                     {
                         single++;
                     }
-                    else if (870 < result && result <= 940)
+                    else if (870 < result && result <= 930)
                     {
                         doubles++;
                     }
-                    else if (940 < result && result <= 950)
+                    else if (930 < result && result <= 940)
                     {
                         triple++;
                     }
-                    else if (950 < result && result <= 1000)
+                    else if (940 < result && result <= 1000)
                     {
                         homerun++;
                     }
@@ -1579,19 +1574,19 @@ namespace SeasonSimulator
                     {
                         regout++;
                     }
-                    else if (725 < result && result <= 870)
+                    else if (725 < result && result <= 850)
                     {
                         single++;
                     }
-                    else if (870 < result && result <= 940)
+                    else if (850 < result && result <= 910)
                     {
                         doubles++;
                     }
-                    else if (940 < result && result <= 950)
+                    else if (920 < result && result <= 930)
                     {
                         triple++;
                     }
-                    else if (950 < result && result <= 1000)
+                    else if (930 < result && result <= 1000)
                     {
                         homerun++;
                     }

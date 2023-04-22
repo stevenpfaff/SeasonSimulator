@@ -7,7 +7,22 @@ namespace SeasonSimulator
 
         static void Main(string[] args)
         {
-            Offense.Batting();   
+            Console.WriteLine("Enter 'P' for Professional simulator, enter 'H' for Highschool simulator");
+            string input = Console.ReadLine();
+            switch (input)
+            {
+                case "P":
+                    {
+                        Offense.Batting();
+                        break;
+                    }
+                case "H":
+                    {
+                        HighSchool.Batting();
+                        break;
+                    }
+            }
+
         }
     }
 }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pfaff\\.nuget\\packages\\": {}
+    "C:\\Users\\StevenPfaff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code Projects\\Baseball Simulator\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator.csproj",
+      "projectUniqueName": "C:\\Code Projects\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator.csproj",
       "projectName": "SeasonSimulator",
-      "projectPath": "C:\\Code Projects\\Baseball Simulator\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator.csproj",
-      "packagesPath": "C:\\Users\\pfaff\\.nuget\\packages\\",
-      "outputPath": "C:\\Code Projects\\Baseball Simulator\\SeasonSimulator\\SeasonSimulator\\obj\\",
+      "projectPath": "C:\\Code Projects\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator.csproj",
+      "packagesPath": "C:\\Users\\StevenPfaff\\.nuget\\packages\\",
+      "outputPath": "C:\\Code Projects\\SeasonSimulator\\SeasonSimulator\\SeasonSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pfaff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\StevenPfaff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -51,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

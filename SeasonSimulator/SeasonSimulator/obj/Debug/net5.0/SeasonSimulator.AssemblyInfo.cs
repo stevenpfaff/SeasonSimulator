@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeasonSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dabd2158a25bc7c7cdb95d787a54591375051139")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeasonSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeasonSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

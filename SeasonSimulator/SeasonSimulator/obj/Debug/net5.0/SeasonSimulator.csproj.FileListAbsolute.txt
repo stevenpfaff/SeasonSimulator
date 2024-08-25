@@ -14,3 +14,20 @@ C:\Code Projects\Baseball Simulator\SeasonSimulator\SeasonSimulator\obj\Debug\ne
 C:\Code Projects\Baseball Simulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\ref\SeasonSimulator.dll
 C:\Code Projects\Baseball Simulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.pdb
 C:\Code Projects\Baseball Simulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.genruntimeconfig.cache
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\bin\Debug\net5.0\SeasonSimulator.exe
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\bin\Debug\net5.0\SeasonSimulator.deps.json
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\bin\Debug\net5.0\SeasonSimulator.runtimeconfig.json
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\bin\Debug\net5.0\SeasonSimulator.runtimeconfig.dev.json
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\bin\Debug\net5.0\SeasonSimulator.dll
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\bin\Debug\net5.0\SeasonSimulator.pdb
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.csproj.AssemblyReference.cache
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.AssemblyInfoInputs.cache
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.AssemblyInfo.cs
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.csproj.CoreCompileInputs.cache
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.sourcelink.json
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.dll
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\refint\SeasonSimulator.dll
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.pdb
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\SeasonSimulator.genruntimeconfig.cache
+C:\Code Projects\SeasonSimulator\SeasonSimulator\SeasonSimulator\obj\Debug\net5.0\ref\SeasonSimulator.dll
